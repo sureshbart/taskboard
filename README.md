@@ -117,6 +117,15 @@ JSON 写起来啰嗦，而且手改的时候容易破坏结构。纯文本的代
 python test_taskboard.py
 ```
 
+---
+
+## 关于作者
+
+sureshbart 相信最朴素的工具最耐用。这个工具把看板变成一个普通文件——谁都能打开、谁能进 git、谁都能接手。
+
+- 个人主页：<https://sureshbart.github.io>
+- 仓库：<https://github.com/sureshbart/taskboard>
+
 ## 许可
 
 MIT，见 [LICENSE](LICENSE)。
