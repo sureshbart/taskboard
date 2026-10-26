@@ -9,6 +9,23 @@
 - 单文件运行，数据就是一个 `.txt`
 - 不联网、没有后台服务、没有账号
 
+<!-- ipos:install -->
+## 安装
+
+零依赖，Python 3.10+ 即可：
+
+```bash
+pip install sureshbart-taskboard
+```
+
+装完直接用命令名调用：
+
+```bash
+taskboard --help
+```
+
+也可以不用安装，直接把 `taskboard.py` 拷走用——它只依赖标准库。
+
 ## 用法
 
 看板文件（叫什么都行，比如 `board.txt`）：
