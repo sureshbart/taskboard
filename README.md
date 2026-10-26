@@ -44,7 +44,9 @@ taskboard --help
 python taskboard.py board.txt
 ```
 
-输出：
+## 输出
+
+看板按状态分组展示，每组先给出状态名与条数，再列任务：
 
 ```
 TODO  (1)
